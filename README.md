@@ -1,5 +1,6 @@
 # myCV-Website
-My curriculum vitae website application
+My curriculum vitae website application now published using GitHub Pages: https://vanessatsang888.github.io/myCV-Website/![image](https://user-images.githubusercontent.com/48724277/116323910-f1599b00-a7b6-11eb-8034-db71a814483e.png)
+
 
 ## About
 So far I have used **HTML5** at intermediate level to develop the content and structure of my cv website application.
