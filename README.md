@@ -16,7 +16,7 @@ The purpose of creating my own cv website application is:
 So far the HTML concepts that I have covered in my web app are:
 1. Lists (bullet and number lists)
 2. Image element
-3. 3. Links and Anchor Tags
+3. Links and Anchor Tags
 4. Tables and tables for layout
 5. Forms
 
