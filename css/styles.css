@@ -5,7 +5,8 @@
 
 body { 
     background-color: #EAF6F6;
-    padding: 50px;
+    padding: 20px;
+    line-height: 1.6;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16pt;
     color: #40514e;
@@ -49,7 +50,12 @@ td {
     font-family: charlie sans display;
     font-size: 15pt;
     font-weight: bolder;
-    color: #0146b3;
+    color: #40514e;
+}
+
+.jobTitle {
+  font-size: 22pt;
+  color: ;
 }
 
 input[type=text], [type=email], [type=tel], [type=yourMessage] {
@@ -58,7 +64,7 @@ input[type=text], [type=email], [type=tel], [type=yourMessage] {
     margin: 8px 0px 30px;
     display: inline-block;
     border: 1px solid #ccc;
-    border-radius: 8px;
+    border-radius: 4px;
     box-sizing: border-box;
   }
 
@@ -69,13 +75,13 @@ input[type=submit] {
     padding: 14px 20px;
     margin: 0px;
     border: none;
-    border-radius: 8px;
+    border-radius: 4px;
     cursor: pointer;
     font-size: 14pt;
   }
   
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #40514e;
   }
 
   div {
@@ -83,6 +89,7 @@ input[type=submit] {
     background-color: white;
     padding: 20px;
   }
+
 
 
 
