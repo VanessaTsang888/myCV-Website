@@ -5,7 +5,7 @@
 
 body { 
     background-color: #EAF6F6;
-    padding: 20px;
+    padding: 60px;
     line-height: 1.6;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 16pt;
@@ -40,23 +40,33 @@ form {
     padding: 20px;
    }
 
+   table, th, td {
+     padding: 20;
+     margin: 10;
+
+   }
+
 td {
-    border: none;
-    padding: 10px;
-    margin: 8;
+    border: 2px;
+    padding: 15px;
+    margin: 10;
+}
+
+table, th, td {
+  border: 2px none;
 }
 
 .atlassian {
     font-family: charlie sans display;
     font-size: 15pt;
     font-weight: bolder;
-    color: #40514e;
+    color: #0052CC;
 }
 
 .jobTitle {
   font-size: 22pt;
-  color: ;
 }
+
 
 input[type=text], [type=email], [type=tel], [type=yourMessage] {
     width: 100%;
@@ -84,11 +94,6 @@ input[type=submit] {
     background-color: #40514e;
   }
 
-  div {
-    border-radius: 5px;
-    background-color: white;
-    padding: 20px;
-  }
 
 
 
