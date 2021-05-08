@@ -21,7 +21,16 @@ So far the HTML concepts that I have covered in my web app are:
 4. Tables and tables for layout
 5. Forms
 
+### CSS2/3 Concepts Covered
+
+So far the CSS2/3 concepts that I have covered in my web app are:
+
+1. Favicons
+2. Div's and Classes to style HTML elements
+3. CSS Static and Relative
+4. CSS Absolute Positioning
+   The first section (profile image and my name/job title etc) uses the css positioning concept including relative and absolute positioning.
+
 ### How To Run This Web App Locally
 Simply double click on the: index.html (homepage)file and this will launch my web app in your deafult browser. At the bottom of that page you will see two hyperlinks. The first link will take you to a page that has some information on my Achievements, Hobbies and Interests. The second link will take you to the Contact Me page where you will find a HTML Form. If you simply wish to test this web app in the frontend: https://vanessatsang888.github.io/myCV-Website
-
 

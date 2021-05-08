@@ -56,6 +56,26 @@ table, th, td {
   border: 2px none;
 }
 
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+/* Make this profile pic element to relative positioning so that it don't affect other elements of the screen */
+.proPic {
+  position: relative;
+  left: 20px;
+  top: 0px;
+}
+
+/* Take the personal details (i.e. name, job title etc) from left of the screen and move it by 350px to the right and from the bottom by 10px away from the element below it */
+.perDetails {
+  position: absolute;
+  left: 350px;
+  bottom: 10px;
+}
+
+
 .atlassian {
     font-family: charlie sans display;
     font-size: 15pt;
