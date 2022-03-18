@@ -51,7 +51,7 @@ table,
 th,
 td {
   padding: 20;
-  margin: 10;
+  margin: 20;
 }
 
 td {
@@ -64,6 +64,11 @@ table,
 th,
 td {
   border: 2px none;
+}
+
+.align-right {
+  text-align: left;
+  padding-bottom: 5px;
 }
 
 .top-container {
